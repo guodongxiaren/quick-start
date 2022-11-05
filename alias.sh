@@ -10,6 +10,7 @@ alias tat="tmux a -t"
 alias tailf="tail -F"
 alias nb="rm -f nohup.out && nohup blade build &"
 alias gc="git checkout"
+alias cls="cls"
 
 
 git config --global core.editor vim # 防止git commit用nano打开
