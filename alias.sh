@@ -11,7 +11,7 @@ alias tat="tmux a -t"
 alias tailf="tail -F"
 alias nb="rm -f nohup.out && nohup blade build &"
 alias gc="git checkout"
-alias cls="cls"
+alias cls="clear"
 alias clone="git clone"
 
 
