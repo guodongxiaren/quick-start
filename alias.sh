@@ -13,6 +13,7 @@ alias nb="rm -f nohup.out && nohup blade build &"
 alias gc="git checkout"
 alias cls="clear"
 alias clone="git clone"
+alias gcb='git checkout -b'
 
 
 git config --global core.editor vim # 防止git commit用nano打开
